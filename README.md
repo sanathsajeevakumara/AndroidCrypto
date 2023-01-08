@@ -1,5 +1,5 @@
 # AndroidCrypto
-AndroidCrypto Encrpytion &amp; Decrpytion
+AndroidCrypto is an Encrpytion &amp; Decrpytion app
 
 This app will Encrypt and Decrypt the enterd Text using Android KeyStore and Cipher
 
